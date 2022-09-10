@@ -1,8 +1,3 @@
-// Sketch: Final Project
-// Student: Qinyi Chen
-// QMUL email: q.chen@se21.qmul.ac.uk
-// Student ID: 210672569
-
 // Set up communication with pure data, by importing the oscP5 libraries
 import oscP5.*;
 import netP5.*;
