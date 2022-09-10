@@ -1,8 +1,3 @@
-// Sketch: Final Project
-// Student: Qinyi Chen
-// QMUL email: q.chen@se21.qmul.ac.uk
-// Student ID: 210672569
-
 // Pins setup:
 // set up a flex sensor to track the opening and closing of box
 const int flexPin = 0; // Flex sensor to analog 1
